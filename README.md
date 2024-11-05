@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://reconhawk.pages.dev" >
-    <img src="https://github.com/user-attachments/assets/893db6ed-35ac-487a-ae78-a21119e30647" alt="ReconHawk Logo" />
+    <img src="https://github.com/user-attachments/assets/52196c6b-ef88-48b4-be3f-a0fc78685387" alt="ReconHawk Logo" />
   </a>
 </div>
 
@@ -40,7 +40,7 @@
 
 <hr>
 
-![image](https://github.com/user-attachments/assets/bca573c8-5e38-4ac0-9a79-6631f81624a6)
+![image](https://github.com/user-attachments/assets/b81f341b-9b20-4b31-be25-53f730ef25e4)
 
 <hr>
 
