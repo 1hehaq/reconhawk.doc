@@ -13,11 +13,7 @@
 </div>
 
 <div align="center">
-
-[![GitHub license](https://img.shields.io/github/license/1hehaq/ReconHawk)](https://github.com/1hehaq/ReconHawk/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/1hehaq/ReconHawk)](https://github.com/1hehaq/ReconHawk/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/1hehaq/ReconHawk)](https://github.com/1hehaq/ReconHawk/issues)
-[![GitHub forks](https://img.shields.io/github/forks/1hehaq/ReconHawk)](https://github.com/1hehaq/ReconHawk/network)
+  
 [![Cloudflare](https://img.shields.io/badge/Powered_by-Cloudflare-F38020?logo=cloudflare)](https://pages.dev)
 
 </div>
@@ -40,7 +36,8 @@
 
 <hr>
 
-![image](https://github.com/user-attachments/assets/b81f341b-9b20-4b31-be25-53f730ef25e4)
+![image](https://github.com/user-attachments/assets/091ca1f7-332f-4f40-a79d-d81a780477f0)
+
 
 <hr>
 
